@@ -1,15 +1,17 @@
 
 # Sign Up Form
 
-Sign Up page using HTML and CSS.<br />
-This project was made for a youtube tutorial.<br /><br/>
-**Youtube link: https://youtu.be/jAr98quOZMY**
+Login page using HTML and CSS.<br />
+
 ### Web Version
-<img src="final.png" alt="Web Version"/>
+<img src="./assets/final.png" alt="Web Version"/>
 
 ## 🚀 Starting
 
 To start the project, just open the file `index.html` in your preferred browser.
 
 ---
-Coded with ❤️  by [Giovanna Moeller](https://github.com/giovannamoeller)
+Coded codificado por mim [Gustavo Kertisz](https://github.com/kertisz)
+---
+Based on the layout of [Giovanna Moeller](https://github.com/giovannamoeller)
+
