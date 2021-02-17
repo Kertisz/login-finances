@@ -1,5 +1,5 @@
 
-# Sign Up Form
+# Sign in
 
 Login page using HTML and CSS.<br />
 
@@ -11,7 +11,8 @@ Login page using HTML and CSS.<br />
 To start the project, just open the file `index.html` in your preferred browser.
 
 ---
-Coded codificado por mim [Gustavo Kertisz](https://github.com/kertisz)
+
+coded by me [Gustavo Kertisz](https://github.com/kertisz)
 ---
 Based on the layout of [Giovanna Moeller](https://github.com/giovannamoeller)
 
